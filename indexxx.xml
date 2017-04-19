@@ -19,18 +19,18 @@
  <item>
   <title>[COLOR GOLD] Server TV [/COLOR]   </title>
         <link>http://Ignoreme</link>
-        <externallink>http%3A%2F%2Ftvgratis.hol.es%2Faddon%2Frepo%2Findex.xml</externallink>
-<thumbnail>https://raw.githubusercontent.com/mitvcanal/repo/master/iconos/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/mitvcanal/repo/master/fanart.jpg</fanart>
+        <externallink>http://tvgratis.hol.es/addon/repo/index.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/iconos/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/fanart.jpg</fanart>
  </item>
 
 
  <item>
         <title>[COLOR gold]IPTV de varios addons y Servidores [/COLOR]                          [COLOR gold] [/COLOR]  </title>
         <link>http://Ignoreme</link>
-        <externallink>https://raw.githubusercontent.com/mitvcanal/repo/master/iptv</externallink>
-<thumbnail>https://raw.githubusercontent.com/mitvcanal/repo/master/iconos/icon.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/mitvcanal/repo/master/fanart.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/iptv</externallink>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/iconos/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/fanart.jpg</fanart>
  </item>
 
  <!--<item>
@@ -61,7 +61,7 @@
 <item>
         <title>[COLOR orange]DEPORTES  [COLOR gold][/COLOR]                [COLOR gold] [/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>https://raw.githubusercontent.com/mitvcanal/repo/master/deportes</externallink>
+        <externallink>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/deportes</externallink>
         <thumbnail>http://www.talentkids.es/wp-content/uploads/curso-imagen-multideporte-420x420.jpg</thumbnail>
         <fanart>http://www.talentkids.es/wp-content/uploads/curso-imagen-multideporte-420x420.jpg</fanart>
 </item>
@@ -169,7 +169,7 @@
 <item>
         <title>[COLOR orange]PELICULAS HD  [COLOR red][/COLOR]  [COLOR gold][/COLOR]             </title>
         <link>http://Ignoreme</link>
-        <externallink>https://raw.githubusercontent.com/mitvcanal/repo/master/pelis</externallink>
+        <externallink>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/pelis</externallink>
         <thumbnail>http://2.bp.blogspot.com/-HMICZXG66pI/Uu4sqwdsGeI/AAAAAAAAAvI/T13pR-wieso/s1600/Movies-HD-Icon.jpg</thumbnail>
         <fanart>http://www.cocoua.es/iamgenes/com.mobincube.android.sc_3ERJ3E.png</fanart>
 </item>
@@ -193,17 +193,17 @@
 <item>
 <title>[COLOR gold]HD Cine[/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/mitvcanal/cine/master/HDFull.xml</externallink>
-<Thumbnail>https://raw.githubusercontent.com/mitvcanal/repo/master/iconos/etzwpWF.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/mitvcanal/repo/master/iconos/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/cine/master/HDFull.xml</externallink>
+<Thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/iconos/etzwpWF.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/iconos/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR gold]Cine Ticket[/COLOR] </title>
 <link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/mitvcanal/cine/master/presenta.xml</externallink>
-<thumbnail>https://raw.githubusercontent.com/mitvcanal/repo/master/iconos/ESsfjmY.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/mitvcanal/repo/master/iconos/fanart.jpg</fanart> 
+<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/cine/master/presenta.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/iconos/ESsfjmY.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/iconos/fanart.jpg</fanart> 
 </item>-->
     
 </item>
