@@ -2,18 +2,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
 
-    <title>              [COLOR gold]                              19/04/2017 Actualizado             [/COLOR]</title>
+    <title>              [COLOR gold]                                      19/04/2017 Actualizado             [/COLOR]</title>
      <link>http://Ignoreme</link>
 	 <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/iconos/icon.png</thumbnail>
                   <fanart>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/fanart.jpg</fanart>
      </item>  
 
-    <item>
-    <title>              [COLOR gold]*************************************************[/COLOR]</title>
-     </item>	
-
+  
 	 <item>
-    <title>     [COLOR gold]----------------------------------------------------------------------------------------------- [/COLOR]</title>
+    <title>     [COLOR gold]-------------------------------------------------------------------------------------------------------------- [/COLOR]</title>
                                
     <link>_</link><thumbnail>http://www.talentkids.es/wp-content/uploads/curso-imagen-multideporte-420x420.jpg</thumbnail>
                   <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
@@ -53,13 +50,7 @@
                   <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
  </item>
 
-       <item>   
-       <title>[COLOR orange]LA LIGA       [COLOR gold] (Necesario Addon La Liga)[/COLOR]</title>
-       <link>http://Ignoreme</link>
-       <jsonrpc>plugin://plugin.video.laliga/</jsonrpc>
-       <thumbnail>http://mundokodi.com/wp-content/uploads/2016/11/10-portada-la-liga.jpg</thumbnail>
-       <fanart>http://mundokodi.com/wp-content/uploads/2016/11/10-portada-la-liga.jpg</fanart>
-       </item>
+    
 
 <item>
         <title>[COLOR orange]DEPORTES  [COLOR gold][/COLOR]                [COLOR gold] [/COLOR]</title>
@@ -68,7 +59,13 @@
         <thumbnail>http://www.talentkids.es/wp-content/uploads/curso-imagen-multideporte-420x420.jpg</thumbnail>
         <fanart>http://www.talentkids.es/wp-content/uploads/curso-imagen-multideporte-420x420.jpg</fanart>
 </item>
-
+   <item>   
+       <title>[COLOR orange]LA LIGA       [COLOR gold] (Necesario Addon La Liga)[/COLOR]</title>
+       <link>http://Ignoreme</link>
+       <jsonrpc>plugin://plugin.video.laliga/</jsonrpc>
+       <thumbnail>http://mundokodi.com/wp-content/uploads/2016/11/10-portada-la-liga.jpg</thumbnail>
+       <fanart>http://mundokodi.com/wp-content/uploads/2016/11/10-portada-la-liga.jpg</fanart>
+       </item>
 <!--<item>
    <title>[COLOR orange]Agenda Arenavision (horarios)[/COLOR]             [COLOR gold]NOVEDAD [/COLOR]</title>
 <link>$doregex[makelist]</link>
