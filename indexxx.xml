@@ -7,11 +7,16 @@
 	 <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/iconos/icon.png</thumbnail>
                   <fanart>https://raw.githubusercontent.com/mitvcanal/mitv/repo/master/fanart.jpg</fanart>
      </item>  
-<
+
     <item>
     <title>              [COLOR gold]*************************************************[/COLOR]</title>
      </item>	
-
+<item>
+    <title>     [COLOR gold]------------------------------------------------------------- [/COLOR]</title>
+                               
+    <link>_</link><thumbnail>http://www.talentkids.es/wp-content/uploads/curso-imagen-multideporte-420x420.jpg</thumbnail>
+                  <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
+ </item>
 
  <item>
   <title>[COLOR gold] Servidores TV [/COLOR]   </title>
@@ -47,8 +52,8 @@
                   <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
  </item>
 
-       <tem>   
-       <title>[COLOR orange]LA LIGA       [COLOR gold] (Necesario Addon La Liga)[/COLOR]</title
+       <item>   
+       <title>[COLOR orange]LA LIGA       [COLOR gold] (Necesario Addon La Liga)[/COLOR]</title>
        <link>http://Ignoreme</link>
        <jsonrpc>plugin://plugin.video.laliga/</jsonrpc>
        <thumbnail>http://mundokodi.com/wp-content/uploads/2016/11/10-portada-la-liga.jpg</thumbnail>
