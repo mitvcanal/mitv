@@ -3,136 +3,136 @@
 
 
 <item>
-<title>                                                    [COLOR orange][B]Verema[/B][/COLOR]   </title>
+<title>                                                    [COLOR orange][B]Mitv[/B][/COLOR]   </title>
 <link>$doregex[openDialog]</link>
 <thumbnail>http://?</thumbnail>
-<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
-<externallink>http://tecnotv.info/kodi/pelis1.xml</externallink>
+<fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
+<externallink></externallink>
 </item>
 
 <item>
-<title>               [COLOR lightslategray]                           Actualizacion: [COLOR slategray][B]10[/B][/COLOR]/04/17[/COLOR] </title>
+<title>               [COLOR lightslategray]                           Actualizacion: [COLOR slategray][B]19[/B][/COLOR]/04/17[/COLOR] </title>
 <link>$doregex[openDialog]</link>
-</thumbnail><fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
+</thumbnail><fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
 </item>
 
 
-
+https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg
  <item>
-        <title>[COLOR orange]VeremaTv 1  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 1  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/DzfsETN2</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/ifFvGF0r</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 2 [/COLOR]</title>
+        <title>[COLOR orange]Servidor 2 [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/XMYN20bf</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/XmDksT25</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 3  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 3  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/n79g8Jfd</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/Z6RrMMYw</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 4  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 4  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/qBqZrNu5</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/vJFhJ4qm</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 5  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 5  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/BGSULV3h</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/pHTEbmha</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 6  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 6  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/m50yC3em</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/saL5v4c6</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 7  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 7  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/cMJP8YzR</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/czEeQ6ys</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 8  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 8  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/6AKEF993</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/G5tiY0cC</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 9  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 9  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/RWBiSuWa</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/dNBsS5in</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 10  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 10  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/rFbGNnVu</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/1XD8hwUK</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 11  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 11  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/AF75wDtD</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/ixD36y3m</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 12  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 12  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/tvg7Hf3Z</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/D23CR2WR</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 13  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 13  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/gjedvFT6</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/t7cNS73E</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR orange]VeremaTv 14  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 14  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/5UYgxnLs</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/f4uBWWwj</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
  <item>
-        <title>[COLOR orange]VeremaTv 15  [/COLOR]</title>
+        <title>[COLOR orange]Servidor 15  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/rrQBaczu</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
+		<externallink>https://pastebin.com/raw/L1LC9LxK</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
