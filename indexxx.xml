@@ -1,33 +1,23 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-    <title>                                            [COLOR gold] VEREMA TV [/COLOR]             </title>
-<link>_</link><thumbnail>https://drive.google.com/uc?export=download&confirm=no_antivirus&id=0B-TC2d575-79RGFXcWR1b0FrNjQ<thumbnail>
-              <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
-    <externallink></externallink>
-    </item>
-	     <item>
+
     <title>              [COLOR blue]*************************************************[/COLOR]</title>
      <link>_</link><thumbnail>https://drive.google.com/uc?export=download&confirm=no_antivirus&id=0B-TC2d575-79RGFXcWR1b0FrNjQ</thumbnail>
                   <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
      </item>  
 <item>
-    <title>              [COLOR gold]NECESARIO INSTALAR F4MTESTER y SPORTSDEVIL  [/COLOR]</title>
+    <title>              [COLOR gold]19/04/2017 Actualizado [/COLOR]</title>
                                
-    <link>_</link><thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.f4mTester.png.pagespeed.ic.ZfEVG9ANlt.png</thumbnail>
-                  <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
  </item>
 
     <item>
     <title>              [COLOR blue]*************************************************[/COLOR]</title>
-     <link>_</link><thumbnail>https://drive.google.com/uc?export=download&confirm=no_antivirus&id=0B-TC2d575-79RGFXcWR1b0FrNjQ</thumbnail>
-                  <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
      </item>	
 
-***************************************************************************************************************************************
 
  <item>
-  <title>[COLOR orange]Verema Tv [/COLOR]   </title>
+  <title>[COLOR GOLD] Server TV [/COLOR]   </title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/veremaapk/repo/master/index2.xml</externallink>
 <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/icon.png</thumbnail>
@@ -36,7 +26,7 @@
 
 
  <item>
-        <title>[COLOR orange]Verema Tv IPTV [/COLOR]                          [COLOR blue]actualizados [/COLOR]  </title>
+        <title>[COLOR gold]IPTV de varios addons y Servidores [/COLOR]                          [COLOR blue] [/COLOR]  </title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/veremaapk/repo/master/iptv</externallink>
 <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/icon.png</thumbnail>
@@ -159,7 +149,7 @@
 
 
 ***************************************************************************************************************************************
-<tem>
+<!--<tem>
     <title>     [COLOR blue]------------------------- MUNDO CINE--------------------------------------------- [/COLOR]</title>
                 
     <link>_</link>
@@ -214,6 +204,6 @@
 <externallink>https://raw.githubusercontent.com/veremaapk/cine/master/presenta.xml</externallink>
 <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/ESsfjmY.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart> 
-</item>
+</item>-->
     
 </item>
