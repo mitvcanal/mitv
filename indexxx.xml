@@ -1,0 +1,219 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+    <title>                                            [COLOR gold] VEREMA TV [/COLOR]             </title>
+<link>_</link><thumbnail>https://drive.google.com/uc?export=download&confirm=no_antivirus&id=0B-TC2d575-79RGFXcWR1b0FrNjQ<thumbnail>
+              <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
+    <externallink></externallink>
+    </item>
+	     <item>
+    <title>              [COLOR blue]*************************************************[/COLOR]</title>
+     <link>_</link><thumbnail>https://drive.google.com/uc?export=download&confirm=no_antivirus&id=0B-TC2d575-79RGFXcWR1b0FrNjQ</thumbnail>
+                  <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
+     </item>  
+<item>
+    <title>              [COLOR gold]NECESARIO INSTALAR F4MTESTER y SPORTSDEVIL  [/COLOR]</title>
+                               
+    <link>_</link><thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.f4mTester.png.pagespeed.ic.ZfEVG9ANlt.png</thumbnail>
+                  <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
+ </item>
+
+    <item>
+    <title>              [COLOR blue]*************************************************[/COLOR]</title>
+     <link>_</link><thumbnail>https://drive.google.com/uc?export=download&confirm=no_antivirus&id=0B-TC2d575-79RGFXcWR1b0FrNjQ</thumbnail>
+                  <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
+     </item>	
+
+***************************************************************************************************************************************
+
+ <item>
+  <title>[COLOR orange]Verema Tv [/COLOR]   </title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/veremaapk/repo/master/index2.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/fanart.jpg</fanart>
+ </item>
+
+
+ <item>
+        <title>[COLOR orange]Verema Tv IPTV [/COLOR]                          [COLOR blue]actualizados [/COLOR]  </title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/veremaapk/repo/master/iptv</externallink>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/fanart.jpg</fanart>
+ </item>
+
+ <!--<item>
+        <title>[COLOR orange]TDT Y AUTONOMICAS[/COLOR]                        [COLOR blue] [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>http://pastebin.com/raw/sFsH6FAG</externallink>
+        <thumbnail>http://www.blaguemultimedia.com/wp-content/uploads/2014/06/TDT.jpg</thumbnail>
+        <fanart></fanart>
+</item>-->
+
+
+***************************************************************************************************************************************
+<item>
+    <title>     [COLOR blue]----------------- SOLO DEPORTES --------------------------------------- [/COLOR]</title>
+                               
+    <link>_</link><thumbnail>http://www.talentkids.es/wp-content/uploads/curso-imagen-multideporte-420x420.jpg</thumbnail>
+                  <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
+ </item>
+
+       <tem>   
+       <title>[COLOR orange]LA LIGA       [COLOR blue] (Necesario Addon La Liga)[/COLOR]</title
+       <link>http://Ignoreme</link>
+       <jsonrpc>plugin://plugin.video.laliga/</jsonrpc>
+       <thumbnail>http://mundokodi.com/wp-content/uploads/2016/11/10-portada-la-liga.jpg</thumbnail>
+       <fanart>http://mundokodi.com/wp-content/uploads/2016/11/10-portada-la-liga.jpg</fanart>
+       </item>
+
+<item>
+        <title>[COLOR orange]DEPORTES  [COLOR gold][/COLOR]                [COLOR blue] [/COLOR]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/veremaapk/repo/master/deportes</externallink>
+        <thumbnail>http://www.talentkids.es/wp-content/uploads/curso-imagen-multideporte-420x420.jpg</thumbnail>
+        <fanart>http://www.talentkids.es/wp-content/uploads/curso-imagen-multideporte-420x420.jpg</fanart>
+</item>
+
+<!--<item>
+   <title>[COLOR orange]Agenda Arenavision (horarios)[/COLOR]             [COLOR blue]NOVEDAD [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR blue][makelist.param1][/COLOR] [COLOR deepskyblue][makelist.param2] [/COLOR] [COLOR blue][makelist.param3][/COLOR] [COLOR skyblue][makelist.param4] [/COLOR]    [COLOR blue][makelist.param6] [/COLOR] [COLOR blue][makelist.param8] [/COLOR] [COLOR blue][makelist.param10] [/COLOR][COLOR blue][makelist.param12] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=[makelist.param5][makelist.param7][makelist.param9][makelist.param11]&amp;mode=1&amp;name=TvGratis+Arenavision</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,2}>(.*?)<[\w\W\s]{0,60}alt='(.*?)'[\w\W\s]{0,55}br>(.*?)<|[\w\W\s]{0,40}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png]]></expres>
+<page>https://avezy.tk/</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>https://i.ytimg.com/vi/bMEpekb0hC4/hqdefault.jpg</thumbnail>
+</item>-->
+	
+
+<item>
+<title>[COLOR orange]ArenaVision EZY[/COLOR]       [COLOR blue]  (Necesario ArenaVision EZY)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.arenavisionezy/</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/bMEpekb0hC4/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange]Deportes Acestream[/COLOR]      [COLOR blue]( Necesario addon PLEXUS • Acestream)[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title> [COLOR blue] [makelist.param1][/COLOR] : [COLOR blue] [makelist.param2][/COLOR][COLOR blue]- [makelist.param4][/COLOR] [B] [COLOR blue][makelist.param3][/B] [/COLOR]</title>
+<link>plugin://program.plexus/?url=[makelist.param5]&amp;mode=1&amp;name=Deportes TvGratis</link>
+]]></listrepeat>
+<expres><![CDATA[text-right align-middle">(.*?)<[\w\W\s]{0,56}>(.*?)<[\w\W\s]{0,50}>(.*?)<[\w\W\s]{0,56}>(.*?)<[\w\W\s]{0,115}acestream://(.*?)"]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>http://i.imgur.com/sgPiapY.jpg?w=240</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]Live Football [/COLOR]     [COLOR blue]( Necesario addon PLEXUS • Acestream)  [COLOR blue]NOVEDAD [/COLOR][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+	<title> [I][makelist2.param2][/I]  [COLOR blue][B] [makelist2.param4][/B] [/COLOR]  </title>
+<link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres><![CDATA[src="(.*?)"[\w\W\s]{0,15}>(.*?)<[\w\W\s]{0,2}href="(.*?html)">(.*?)<]]></expres>
+<page>http://www.livefootballol.me/live-football-streaming-2016.html</page>
+<agent>Mozilla</agent>
+</regex>
+ <regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title> [B][makelist.param3][/B]      [I] [makelist.param1][/I] </title>
+<link>plugin://program.plexus/?url=$doregex[canal]&amp;mode=1&amp;name=TvGratis</link>
+<regex>
+<name>canal</name>
+<expres>acestream://(.*)"</expres>
+<page>[makelist.param2]</page>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[td>(.*?)<[\w\W\s]{0,15}href="(.*?html)">(.*?)AceStream]]></expres>
+<page>http://www.livefootballol.me[makelist2.param3]</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>http://i.imgur.com/sgPiapY.jpg?w=240</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]Deportes a la Carta[/COLOR] [COLOR blue]  (Necesario Deportes a la Carta)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.deportesalacarta/</jsonrpc>
+<thumbnail>http://imgur.com/u8ahTVt.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+***************************************************************************************************************************************
+<tem>
+    <title>     [COLOR blue]------------------------- MUNDO CINE--------------------------------------------- [/COLOR]</title>
+                
+    <link>_</link>
+ </item>
+ 
+ <item>
+        <title>     [COLOR blue]-------------------- MUNDO CINE ------------------------------- [/COLOR]</title>
+        <link>_</link>
+                <thumbnail>http://2.bp.blogspot.com/-eYDJqspswcM/VDs3KeqfJjI/AAAAAAAAC60/nfykQcf179s/s1600/logo_entretenimiento.jpg</thumbnail>
+        <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
+</item>
+
+
+
+
+
+<item>
+        <title>[COLOR orange]PELICULAS HD  [COLOR red][/COLOR]  [COLOR blue][/COLOR]             </title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/veremaapk/repo/master/pelis</externallink>
+        <thumbnail>http://2.bp.blogspot.com/-HMICZXG66pI/Uu4sqwdsGeI/AAAAAAAAAvI/T13pR-wieso/s1600/Movies-HD-Icon.jpg</thumbnail>
+        <fanart>http://www.cocoua.es/iamgenes/com.mobincube.android.sc_3ERJ3E.png</fanart>
+</item>
+
+
+        <item>
+        <title>[COLOR orange]PelisalaCarta[COLOR blue] (Necesario Addon PelisalaCarta)[/COLOR]</title>
+        <link>ignorme</link>
+        <jsonrpc>plugin://plugin.video.pelisalacarta/</jsonrpc>
+        <thumbnail>http://blog.tvalacarta.info/wp-content/uploads/2011/11/icon.png</thumbnail>
+        <fanart>http://www.cocoua.es/iamgenes/com.mobincube.android.sc_3ERJ3E.png</fanart>
+        </item>
+
+        <item>
+        <title>[COLOR orange]Addon Cine[COLOR blue] (Necesario Addon Cine)[/COLOR]</title>
+        <link>ignorme</link>
+        <jsonrpc>plugin://plugin.video.cine/</jsonrpc>
+        <thumbnail>https://dl.dropbox.com/s/wc81ae6a8b4xerh/icon%20%282%29.png?dl=0</thumbnail>
+        <fanart>http://www.cocoua.es/iamgenes/com.mobincube.android.sc_3ERJ3E.png</fanart>
+        </item>
+<item>
+<title>[COLOR gold]HD Cine[/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/veremaapk/cine/master/HDFull.xml</externallink>
+<Thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/etzwpWF.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]Cine Ticket[/COLOR] </title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/veremaapk/cine/master/presenta.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/ESsfjmY.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart> 
+</item>
+    
+</item>

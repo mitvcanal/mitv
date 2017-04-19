@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Deportes (Favoritos)[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes2</externallink>
+</item>
+
+
+
+<item>
+    <title>[COLOR yellow]ACESTREAM verema tv pruebas[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/ace</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Television [COLOR skyblue]24/7[/COLOR][/B][/COLOR] [COLOR lightslategray]en Español  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+
+<title>[makelist.param2]</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_[makelist.param1]  swfUrl=http://vaughnlive.tv$doregex[get_channel] pageUrl=http://vaughnlive.tv/[makelist.param1]  live=true</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/soon__depricated_Q2_2017-live_[makelist.param1]-true?0.1.1.791_124-124-0.3246205379255116</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key</name>
+<expres>mvnkey-(.*?);</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/soon__depricated_Q2_2017-live_[makelist.param1]-true?0.1.1.791_124-124-0.3246205379255116</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get_key2</name>
+<expres>;.*;(.*?)</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/soon__depricated_Q2_2017-live_[makelist.param1]-true?0.1.1.791_124-124-0.3246205379255116</page>                               
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+
+_psn12v?
+
+
+<regex>
+<name>get_channel</name>
+<expres>embedSWF\(\"(.*?)"</expres>    
+<page>http://vaughnlive.tv/[makelist.param1]</page>                             
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>http://vaughnlive.tv/browse/espanol</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+
+
+<nopitem>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow] Movi + pruebas [/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/Carlesto/Listas/master/movistar.xml</externallink>
+</item>
+
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow][B]Tv verema tv pruebas Online [/B][/COLOR][COLOR red][/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv1</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv verema tv pruebas Online [/COLOR][COLOR blue]NO TP[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv3</externallink>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv verema tv pruebas Online [/COLOR][COLOR red]Españoles[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv2</externallink>
+</item>
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Tv verema tv pruebas Online[/COLOR][COLOR lime] SportDevil yF4m [/COLOR][COLOR red]Lamejor!![/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtv</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Series[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurseries</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Telenovelas[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurtelenovelas</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Peliculas[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurpeliculas</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Documentales[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdocumentales</externallink>
+</item>
+
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Mexiflix[/COLOR]</title>
+<externallink>https://dl.dropboxusercontent.com/s/czitah7nid5p81j/masterlink24.xml?dl=1</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Solo Partidos en Vivo[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes</externallink>
+</item>
+
+nopitem>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Solo Partidos en Vivo1 nop[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes1</externallink>
+</item>
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] Deportes (Favoritos)[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/menurdeportes2</externallink>
+</item>
+
+https://raw.githubusercontent.com/thanh51/repository.thanh51/master/PlaylistHDplay.xml
+
+
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR yellow]Deportes[/COLOR][COLOR lime] chino total (Favoritos)[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/PlaylistHDplay.xml</externallink>
+</item>

@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR blue]La Liga [/COLOR]                                    [COLOR lime]novedad[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=TvGratis+La Liga</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://freelive365.com/tv/ace/es/liga.php</page>
+<referer>http://freelive365.com</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-tO1FaGGgcOQ/VUZJ3dWBZeI/AAAAAAAABpg/iLE8hnlD-5U/s1600/Acestream%2BChannels%2Blist.png</thumbnail>
+<fanart></fanart>
+</item>
+	<item>
+<title>[COLOR blue]Deportes Acestream[/COLOR]                        [COLOR lime]novedad[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[COLOR lime] [makelist.param1][/COLOR] : [COLOR blue] [makelist.param2][/COLOR][COLOR blue]- [makelist.param4][/COLOR] [B] [COLOR lime][makelist.param3][/B] [/COLOR]</title>
+<link>plugin://program.plexus/?url=[makelist.param5]&amp;mode=1&amp;name=Deportes TvGratis</link>
+]]></listrepeat>
+<expres><![CDATA[text-right align-middle">(.*?)<[\w\W\s]{0,56}>(.*?)<[\w\W\s]{0,50}>(.*?)<[\w\W\s]{0,56}>(.*?)<[\w\W\s]{0,115}acestream://(.*?)"]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-tO1FaGGgcOQ/VUZJ3dWBZeI/AAAAAAAABpg/iLE8hnlD-5U/s1600/Acestream%2BChannels%2Blist.png</thumbnail>
+</item>	
+
+<item>
+<title>[COLOR blue]ELGOLES  Canales Acestream[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR blue]ELGOLES - Canal Acestream  [makelist.param1][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=TvGratis+ELGOLES[makelist.param1]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://elgoles.ru/canal-[makelist.param1]/</page>
+			<referer>http://elgoles.ru/</referer>
+			<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://2.bp.blogspot.com/-tO1FaGGgcOQ/VUZJ3dWBZeI/AAAAAAAABpg/iLE8hnlD-5U/s1600/Acestream%2BChannels%2Blist.png</thumbnail>
+</item>	
+]]></listrepeat>
+<expres>elgoles.ru/canal-(.*?)\/"</expres>
+<page>http://elgoles.ru/</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex><thumbnail>http://2.bp.blogspot.com/-tO1FaGGgcOQ/VUZJ3dWBZeI/AAAAAAAABpg/iLE8hnlD-5U/s1600/Acestream%2BChannels%2Blist.png</thumbnail>
+</item>
+
+
+
+
+                <item>
+				<title>[COLOR blue]ABONO FUTBOL 1[/COLOR] [COLOR lime]sportsdevil[/COLOR] </title>
+				<sportsdevil>http://lacasadeltikitaka.me/directo/canal1.php</sportsdevil>
+                <referer>http://lacasadeltikitaka.me/</referer>
+				<fanart>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png</fanart>
+				<thumbnail>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png<thumbnail/>
+                </item>
+				<item>
+				<title>[COLOR blue]ABONO FUTBOL 2[/COLOR] [COLOR lime]sportsdevil[/COLOR] </title>
+				<sportsdevil>http://lacasadeltikitaka.me/directo/canal2.php</sportsdevil>
+                <referer>http://lacasadeltikitaka.me/</referer>
+				<fanart>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png</fanart>
+				<thumbnail>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png<thumbnail/>
+                </item>
+				<item>
+				<title>[COLOR blue]ABONO FUTBOL 3[/COLOR] </title>
+				<link>plugin://plugin.video.live.streamspro/?url=%24doregex%5Bget-id%5D%7CUser-Agent%3DiPad&mode=17&regexs=%7Bu%27get-id%27%3A%20%7B%27expres%27%3A%20u%22source%3A%20%27%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//biophobia.tv/%27%2C%20%27name%27%3A%20u%27get-id%27%2C%20%27page%27%3A%20u%27http%3A//tumarcador.xyz/bio2%27%7D%7D&iconimage=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fg2D4v3e0p3k%2Fmaxresdefault.jpg</link>
+				<fanart>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png</fanart>
+				<thumbnail>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png<thumbnail/>
+                </item>
+				<item>
+				<title>[COLOR blue]ABONO FUTBOL 4[/COLOR] </title>
+				<link>plugin://plugin.video.live.streamspro/?url=%24doregex%5Bget-id%5D%7CUser-Agent%3DiPad&mode=17&regexs=%7Bu%27get-id%27%3A%20%7B%27expres%27%3A%20u%22source%3A%20%27%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//biophobia.tv/%27%2C%20%27name%27%3A%20u%27get-id%27%2C%20%27page%27%3A%20u%27http%3A//tumarcador.xyz/bio%27%7D%7D&iconimage=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fg2D4v3e0p3k%2Fmaxresdefault.jpg</link>
+				<fanart>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png</fanart>
+                <thumbnail>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png<thumbnail/>
+                </item>
+				<item>
+				<title>[COLOR blue]ABONO FUTBOL 5[/COLOR] [COLOR lime]sportsdevil[/COLOR] </title>
+				<sportsdevil>http://golmania.tv/canal-1/</sportsdevil>
+                <referer>http://golmania.tv/</referer>
+				<fanart>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png</fanart>
+				<thumbnail>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png<thumbnail/>
+                </item>
+				<item>
+				<title>[COLOR blue]ABONO FUTBOL 6[/COLOR] [COLOR lime]sportsdevil[/COLOR] </title>
+				<sportsdevil>http://golmania.tv/canal-3/</sportsdevil>
+                <referer>http://cinestrenostv.tv</referer>
+				<fanart>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png</fanart>
+				<thumbnail>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png<thumbnail/>
+                </item>
+				<item>
+				<title>[COLOR blue]ABONO FUTBOL 7[/COLOR] [COLOR lime]sportsdevil[/COLOR] </title>
+				<sportsdevil>http://vipracing.info/channel/bein-es</sportsdevil>
+                <referer>http://vipracing.info/</referer>
+				<fanart>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png</fanart>
+				<thumbnail>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png<thumbnail/>
+                </item>
+				<item>
+				<title>[COLOR blue]ABONO FUTBOL 8[/COLOR] [COLOR lime]sportsdevil[/COLOR] </title>
+				<sportsdevil>http://vipracing.info/channel/canal-2</sportsdevil>
+                <referer>http://vipracing.info/</referer>
+				<fanart>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png</fanart>
+				<thumbnail>http://telecincostatic-a.akamaihd.net/concursos-tv/concurso-bases_legales_MDSIMA20130802_0024_4.png<thumbnail/>
+                </item>
+
+*******************************************************************************
+<item>
+<title>[COLOR blue]•OPCION  1 TU MARCADOR [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal1</page>
+</regex>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  2 TU MARCADOR [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal2</page>
+</regex>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  3 TU MARCADOR [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal3</page>
+</regex>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  4 TU MARCADOR [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal4</page>
+</regex>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  5 TU MARCADOR [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal5</page>
+</regex>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  6 TU MARCADOR [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal6</page>
+</regex>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  7 TU MARCADOR [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal7</page>
+</regex>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  8 TU MARCADOR [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://tumarcador.xyz/canal8</page>
+</regex>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  1 TU MARCADOR [/COLOR] -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://tumarcador.xyz/canal1</sportsdevil>
+<referer>http://tumarcador.xyz</referer>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  2 TU MARCADOR [/COLOR] -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://tumarcador.xyz/canal2</sportsdevil>
+<referer>http://tumarcador.xyz</referer>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  3 TU MARCADOR [/COLOR] -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://tumarcador.xyz/canal3</sportsdevil>
+<referer>http://tumarcador.xyz</referer>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  4 TU MARCADOR [/COLOR] -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://tumarcador.xyz/canal4</sportsdevil>
+<referer>http://tumarcador.xyz</referer>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  5 TU MARCADOR [/COLOR] -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://tumarcador.xyz/canal5</sportsdevil>
+<referer>http://tumarcador.xyz</referer>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  6 TU MARCADOR [/COLOR] -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://tumarcador.xyz/canal6</sportsdevil>
+<referer>http://tumarcador.xyz</referer>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  7 TU MARCADOR [/COLOR] -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://tumarcador.xyz/canal7</sportsdevil>
+<referer>http://tumarcador.xyz</referer>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart> 
+</item>
+
+<item>
+<title>[COLOR blue]•OPCION  8 TU MARCADOR [/COLOR] -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://tumarcador.xyz/canal8</sportsdevil>
+<referer>http://tumarcador.xyz</referer>
+<thumbnail>https://dl.dropbox.com/s/semw6axb7dml0bg/AGENDA-DEPORTIVA-ECO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/68o91p0fo025qap/maxresdefault.jpg</fanart> 
+</item>
+
+
+
+<item>
+<title>[COLOR blue]•ZONA SPORTS OPCION 1 HD[/COLOR]</title>
+<sportsdevil>http://vipracing.info/channel/bein-es</sportsdevil>
+<referer>http://www.vipracing.info/</referer>
+<fanart>https://dl.dropbox.com/s/vf5xsfewtvqfzzu/eventos%20deportivos.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/6wayo4gb2r3vojb/logo.jpg</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR blue]•ZONA SPORTS OPCION 2 SD[/COLOR]</title>
+<sportsdevil>http://vipracing.info/channel/canal-2</sportsdevil>
+<referer>http://vipracing.info/</referer>
+<fanart>https://dl.dropbox.com/s/vf5xsfewtvqfzzu/eventos%20deportivos.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/6wayo4gb2r3vojb/logo.jpg</thumbnail> 
+</item> 
+
+<item>
+<title>[COLOR blue]•ZONA SPORTS[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[getCoded]&amp;name=BEIN SPORTS</link>
+<fanart>https://dl.dropbox.com/s/vf5xsfewtvqfzzu/eventos%20deportivos.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/6wayo4gb2r3vojb/logo.jpg</thumbnail>
+<regex>
+<name>wowzasessionid</name>
+<expres>NAME=.*?SRC="(.*?)"</expres>
+<page>http://embed.latino-webtv.com/bein.html</page>
+<referer>http://embed.latino-webtv.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>file: "(.*?)"</expres>
+<page><![CDATA[$doregex[wowzasessionid]]]></page>
+<referer>http://embed.latino-webtv.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getCoded</name>
+<expres>$pyFunction:urllib.quote_plus('$doregex[m3u8]|Referer=http://latino-webtv.com/embed/canales.php?ch=beinhd&name=bein&sd=si%26hd=no&amp;X-Requested-With=ShockwaveFlash/24.0.0.186&amp;Accept: */*')</expres>
+<page></page>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR blue] BIOPHOBIA TV HD[/COLOR]</title>
+<fanart>https://dl.dropbox.com/s/i606w1mrp8r3tge/apertura-movistar-tv-futbol.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/59akfs6ep02g5j8/933031310258124.jpg</thumbnail>
+<link>$doregex[get-m3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0</link>
+<regex>
+<name>get-m3u8</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import re, requests
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0', 'Referer': 'http://biophobia.tv/multis/best1.php'}
+ source = requests.get('http://tumarcador.xyz/bio', headers=headers)
+ streamfn = re.findall('source: (.*?)\(', source.text)[0]
+ formula1 = re.search(r'function ' + streamfn + '.*\n.*\[(.*?)\].join.*?\+ (.*?).join.*?ById\("(.*?)"', source.text)
+ par1 = formula1.group(1).replace('\"', '').replace(',', '').replace('\\/', '/')
+ prepar2 = re.findall('var ' + formula1.group(2) + '.*?\[(".*?)\]', source.text)[0]
+ par2 = prepar2.replace('\"', '').replace(',', '').replace('\\/', '/')
+ par3 = re.findall('id=' + formula1.group(3) + '>(.*?)<', source.text)[0]
+ finalm3u8= par1 + par2 +par3
+ return finalm3u8
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue] BIOPHOBIA TV SD[/COLOR]</title>
+<fanart>https://dl.dropbox.com/s/i606w1mrp8r3tge/apertura-movistar-tv-futbol.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/59akfs6ep02g5j8/933031310258124.jpg</thumbnail>
+<link>$doregex[m3u8]</link>
+<regex>
+<name>m3u8</name>
+<expres>source: "(.*?)"</expres>
+<page>http://biophobia.tv/multis/sata.php</page>
+<referer>http://biophobia.tv/movistarplus/biophobiasd.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue] BIOPHOBIA TV HD  -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://biophobia.tv/multis/best1.php</sportsdevil>
+<referer>http://biophobia.tv</referer>
+<fanart>https://dl.dropbox.com/s/i606w1mrp8r3tge/apertura-movistar-tv-futbol.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/59akfs6ep02g5j8/933031310258124.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] BIOPHOBIA TV SD  -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://biophobia.tv/multis/sata.php</sportsdevil>
+<referer>http://biophobia.tv</referer>
+<fanart>https://dl.dropbox.com/s/i606w1mrp8r3tge/apertura-movistar-tv-futbol.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/59akfs6ep02g5j8/933031310258124.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]•LA  CASA  DEL  TIKI  TAKA 1[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/$doregex[get-id]/streams/live/iphone/playlist.m3u8</link>
+<regex>
+<name>get-id</name>
+<expres>cid=(.*?)&amp;stream</expres>
+<page>http://lacasadeltikitaka.me/directo/canal1.php</page>
+</regex>
+<fanart>https://dl.dropbox.com/s/fxw8d853clxcgrm/maxresdefault%20%281%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/psb8r7nt82x5dl8/promo-programa-Tiki-Taka-deportes-Cuatro-Energy_MDSVID20130814_0027_3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]•LA  CASA  DEL  TIKI  TAKA 2[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/$doregex[get-id]/streams/live/iphone/playlist.m3u8</link>
+<regex>
+<name>get-id</name>
+<expres>cid=(.*?)&amp;stream</expres>
+<page>http://lacasadeltikitaka.me/directo/canal2.php</page>
+</regex>
+<fanart>https://dl.dropbox.com/s/fxw8d853clxcgrm/maxresdefault%20%281%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/psb8r7nt82x5dl8/promo-programa-Tiki-Taka-deportes-Cuatro-Energy_MDSVID20130814_0027_3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]•LA  CASA  DEL  TIKI  TAKA 3[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/$doregex[get-id]/streams/live/iphone/playlist.m3u8</link>
+<regex>
+<name>get-id</name>
+<expres>cid=(.*?)&amp;stream</expres>
+<page>http://lacasadeltikitaka.me/directo/canal3.php</page>
+</regex>
+<fanart>https://dl.dropbox.com/s/fxw8d853clxcgrm/maxresdefault%20%281%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/psb8r7nt82x5dl8/promo-programa-Tiki-Taka-deportes-Cuatro-Energy_MDSVID20130814_0027_3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]•LA  CASA  DEL  TIKI  TAKA 4[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/uhls/$doregex[get-id]/streams/live/iphone/playlist.m3u8</link>
+<regex>
+<name>get-id</name>
+<expres>cid=(.*?)&amp;stream</expres>
+<page>http://lacasadeltikitaka.me/directo/canal4.php</page>
+</regex>
+<fanart>https://dl.dropbox.com/s/fxw8d853clxcgrm/maxresdefault%20%281%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/psb8r7nt82x5dl8/promo-programa-Tiki-Taka-deportes-Cuatro-Energy_MDSVID20130814_0027_3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]•LA  CASA  DEL  TIKI  TAKA -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://lacasadeltikitaka.me/directo/canal1.php</sportsdevil>
+<referer>http://lacasadeltikitaka.me</referer>
+<fanart>https://dl.dropbox.com/s/fxw8d853clxcgrm/maxresdefault%20%281%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/psb8r7nt82x5dl8/promo-programa-Tiki-Taka-deportes-Cuatro-Energy_MDSVID20130814_0027_3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]•LA  CASA  DEL  TIKI  TAKA -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://lacasadeltikitaka.me/directo/canal2.php</sportsdevil>
+<referer>http://lacasadeltikitaka.me</referer>
+<fanart>https://dl.dropbox.com/s/fxw8d853clxcgrm/maxresdefault%20%281%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/psb8r7nt82x5dl8/promo-programa-Tiki-Taka-deportes-Cuatro-Energy_MDSVID20130814_0027_3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]•LA  CASA  DEL  TIKI  TAKA -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://lacasadeltikitaka.me/directo/canal3.php</sportsdevil>
+<referer>http://lacasadeltikitaka.me</referer>
+<fanart>https://dl.dropbox.com/s/fxw8d853clxcgrm/maxresdefault%20%281%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/psb8r7nt82x5dl8/promo-programa-Tiki-Taka-deportes-Cuatro-Energy_MDSVID20130814_0027_3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]•LA  CASA  DEL  TIKI  TAKA -[COLOR lime] SPORTSDEVIL [/COLOR]</title>
+<sportsdevil>http://lacasadeltikitaka.me/directo/canal4.php</sportsdevil>
+<referer>http://lacasadeltikitaka.me</referer>
+<fanart>https://dl.dropbox.com/s/fxw8d853clxcgrm/maxresdefault%20%281%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/psb8r7nt82x5dl8/promo-programa-Tiki-Taka-deportes-Cuatro-Energy_MDSVID20130814_0027_3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]• CR7 & MESSI[/COLOR]</title>
+<sportsdevil>http://kora-live.tv/live/cliga.html</sportsdevil>
+<referer>http://kora-live.tv/</referer>
+<fanart>https://dl.dropbox.com/s/lvwhtfgf62m6l3e/maxresdefault%20%284%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/vljfmx6b7206mjm/568131e7aa91e_375x250.jpg</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR blue]• CR7 & MESSI[/COLOR]</title>
+<sportsdevil>http://kora-live.tv/live/cfutball.html</sportsdevil>
+<referer>http://kora-live.tv/</referer>
+<fanart>https://dl.dropbox.com/s/lvwhtfgf62m6l3e/maxresdefault%20%284%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/vljfmx6b7206mjm/568131e7aa91e_375x250.jpg</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR blue]• CR7 & MESSI[/COLOR]</title>
+<sportsdevil>http://bro.adca.st/stream.php?id=12428&cache=4&width=750&height=450&stretching=uniform&p=1&c=0</sportsdevil>
+<referer>http://deportemixtv.info/</referer>
+<fanart>https://dl.dropbox.com/s/lvwhtfgf62m6l3e/maxresdefault%20%284%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/vljfmx6b7206mjm/568131e7aa91e_375x250.jpg</thumbnail>  
+</item>  
+
+<item>
+<title>[COLOR blue]• CR7 & MESSI[/COLOR]</title>
+<link>http://$doregex[getServerIP]/live/$doregex[getChanName]$doregex[getM3U8]</link>
+<regex>
+<name>getPage</name>
+<expres>var url = '(.*?)'</expres>
+<page>$doregex[getSRC]</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getSRC</name>
+<expres>javascript" src="(http:.*?)"</expres>
+<page>http://deportemixtv.info/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getServerIP</name>
+<expres>var edgeserverip = '(.*?)'</expres>
+<page>$doregex[getPage]</page>
+<referer>http://deportemixtv.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getChanName</name>
+<expres>var name     = '(.*?)'</expres>
+<page>$doregex[getPage]</page>
+<referer>http://deportemixtv.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>(\.m3u8.*?)"</expres>
+<page>$doregex[getPage]</page>
+<referer>http://deportemixtv.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+<fanart>https://dl.dropbox.com/s/lvwhtfgf62m6l3e/maxresdefault%20%284%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/vljfmx6b7206mjm/568131e7aa91e_375x250.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue]• CR7 & MESSI[/COLOR]</title>
+<sportsdevil>http://mediazon.org/elite12.php</sportsdevil>
+<referer>http://mediazon.org/</referer>
+<fanart>https://dl.dropbox.com/s/lvwhtfgf62m6l3e/maxresdefault%20%284%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/vljfmx6b7206mjm/568131e7aa91e_375x250.jpg</thumbnail>  
+</item>
+
+<item>
+<title>[COLOR blue]• CR7 & MESSI[/COLOR]</title>     
+<fanart>https://dl.dropbox.com/s/lvwhtfgf62m6l3e/maxresdefault%20%284%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/vljfmx6b7206mjm/568131e7aa91e_375x250.jpg</thumbnail>
+<link>$doregex[rtmp] playpath=$doregex[path] flashVer=WIN\2019,0,0,245 swfUrl=http://yibix.net/jwplayer2/jwplayer.flash.swf pageUrl=http://yibix.net$doregex[get-page] live=1 swfVfy=1</link>
+<regex>
+<name>get-page</name>
+<expres>" src="(.*?)"</expres>
+<page>http://yibix.net/embedplayer/revotveu1/730/430?rand=</page>
+<referer>http://revolucionariostv.eu/elitegol/Repros/c1.php</referer>      
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>file: "(rtmp.*?)rev</expres>
+<page>http://yibix.net$doregex[get-page]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://yibix.net/embedplayer/revotveu1/730/430?rand=</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>path</name>
+<expres>file: ".*?live\/(.*?)"</expres>
+<page>http://yibix.net$doregex[get-page]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36</agent>
+<referer>http://yibix.net/embedplayer/revotveu1/730/430?rand=</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue]• CR7 & MESSI[/COLOR]</title>
+<sportsdevil>http://canalescr7star.ucoz.com/ReproParaLlevar2.html</sportsdevil>
+<referer>http://canalescr7star.ucoz.com/</referer>
+<fanart>https://dl.dropbox.com/s/lvwhtfgf62m6l3e/maxresdefault%20%284%29.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/vljfmx6b7206mjm/568131e7aa91e_375x250.jpg</thumbnail>
+</item>
+
+  
+
+<item>
+<title>[COLOR blue]• DEPORTIVOS  OPCION 1 [/COLOR]</title>
+<fanart>https://dl.dropbox.com/s/d9tns72l2888hc2/eventosdeportivos.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/ok6d3cid31wfr9z/logo%20grupo%20eventos%20H%281%29.jpg</thumbnail>                                               
+<link>http://iphone-streaming.ustream.tv/uhls/22913005/streams/live/iphone/playlist.m3u8|User-Agent=iPhone</link>
+</item>
+
+<item>
+<title>[COLOR blue]• DEPORTIVOS  OPCION 2 [/COLOR]</title>
+<fanart>https://dl.dropbox.com/s/d9tns72l2888hc2/eventosdeportivos.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/ok6d3cid31wfr9z/logo%20grupo%20eventos%20H%281%29.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[ricardo]</link>
+<regex>   
+<name>ricardo</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676das99saghdshhdds.sitenow.me/live/verliga2_bbt0ajw/playlist.m3u8?st=CeA809woGXGEP43dt9G_Sw&e=1485093050|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=105848&width=650&height=400&autostart=true&tk1=whD5QCexvJUY5BLpA7XrxE3qX77DIHVKwUgId9iNPf8%3D&tk2=BnJ4p6onhmKLLz1JFC%2FlarmgDOSrdl3bN9YQ2eASJvg%3D&tk3=kLHWTyx%2B%2B4sAfKo%2FLfPXGmR100bNC%2FIakgnkKKinhl0%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]• DEPORTIVOS  OPCION 3 [/COLOR]</title>
+<fanart>https://dl.dropbox.com/s/d9tns72l2888hc2/eventosdeportivos.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/ok6d3cid31wfr9z/logo%20grupo%20eventos%20H%281%29.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[hugo]</link>
+<regex>   
+<name>hugo</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676das99saghdshhdds.sitenow.me/live/verliga3_bn7lqp2/chunklist.m3u8?st=vFseHPG7HZpYIKMnIHl1zQ&e=1485093109|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=105989&width=650&height=400&autostart=true&tk1=bYXGHvCCwgS3xm09WFLv0P11EGn6shC2ucobI6mus7k%3D&tk2=4%2B%2BJ9VJauQpli4nFLj6%2FosU1gCjby%2BaK0WRvYNTgBlc%3D&tk3=QIkviJAzAqUAprRbEkL4Cc5z3aBxQnFf9PUwBI2IoHw%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]• DEPORTIVOS  OPCION 4 [/COLOR]</title>
+<fanart>https://dl.dropbox.com/s/d9tns72l2888hc2/eventosdeportivos.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/ok6d3cid31wfr9z/logo%20grupo%20eventos%20H%281%29.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[paco]</link>
+<regex>   
+<name>paco</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676das99saghdshhdds.sitenow.me/live/verliga4_bs88tgn/chunklist.m3u8?st=rAcNLy-ytbq914zYt7CcdQ&e=1485088773|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=106120&width=650&height=400&autostart=true&tk1=%2BfXLQUKbJ%2BCFhDc2efqNvDzTT%2FE3aG00E%2BKHd0aAND0%3D&tk2=yZ73Q2BUU1rDD%2FZdXzRZHpMc7CQS%2BnJbJY9iNhYRFEA%3D&tk3=30VBA%2BFjNAlglfNO3vSvhWqaBL9tNXhJerwGfUsPsNs%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]• DEPORTIVOS  OPCION 5 [/COLOR]</title>
+<fanart>https://dl.dropbox.com/s/d9tns72l2888hc2/eventosdeportivos.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/ok6d3cid31wfr9z/logo%20grupo%20eventos%20H%281%29.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[clara]</link>
+<regex>   
+<name>clara</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676das99saghdshhdds.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8?st=uL1T6jtxgVQl2U__AmC4cg&e=1485088838|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.dinostream.pw/embed.php?c=104884&width=650&height=400&autostart=true&tk1=VHw6ZV3sTmSiXGWWnJTMnqcCbiuSN8GMNuf4Q9RNJou6pzOlAAfm7wWClTLqbnNMIp3EG87cY1xKPkTK%2FfSj8w%3D%3D&tk2=FtwJD%2B2AT9exFEafr9rNgA46yU%2BVPQCbWtd9n4FvA18%3D&tk3=CJO3fSVfkPanJ7R1kts9p5rxSxdnzr78oT8eWSmICSQ%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]• DEPORTIVOS  OPCION 6 [/COLOR]</title>
+<fanart>https://dl.dropbox.com/s/d9tns72l2888hc2/eventosdeportivos.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/ok6d3cid31wfr9z/logo%20grupo%20eventos%20H%281%29.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[vero]</link>
+<regex>   
+<name>vero</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676das99saghdshhdds.sitenow.me/live/verliga2_bbt0ajw/playlist.m3u8?st=DM9q4q6u-q6vnHFfhCoE4w&e=1485093293|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=105848&width=650&height=400&autostart=true&tk1=wC8OjkHgetRHNAMIpW71O0hX%2F1Ri0Rk9MX1jqfIpWm4%3D&tk2=aKx67Ou0x8HY8CSLKYhfCkbRxyZ3N73sXeug7H1pJbk%3D&tk3=r8reIFWmHFc8L6x8EdbUxxj9EPXRCHDv1q2FSJrTMrA%3D')</expres><page></page></regex>
+</item>
+
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  OPCION 1 [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[pepe]</link>
+<regex>   
+<name>pepe</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/titosportstv1_bhxvow6/playlist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.zombietv.pw/embed.php?c=105761&width=640&height=400&autostart=true&tk1=EGZn59EzP%2BD5utjLjOBvZKhyZQQNge2AKrIhzRaO26Q4%2BdYGKLaSmnxU5XFSTgB8The36DL1FRuEGX%2BPymmQYQ%3D%3D&tk2=LnkUs1fuA%2F4W5ONEj%2FIBR7Aqf8Ps%2FR4%2FJJtU1VB2OiA%3D&tk3=gTTuxlTKhLkGqVW%2BoL9VZj5Ua9ZMQlEFM0HuAWVxHDE%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  OPCION 2 [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[perez]</link>
+<regex>   
+<name>perez</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/titosportstv2_bhxvsyk/playlist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.zombietv.pw/embed.php?c=105762&width=640&height=400&autostart=true&tk1=HFLead141OVrZ4N7s%2FVmqAC%2BGBTWzCyRghxHaFBD35rRB%2B31oy3qTz92aq4cav2itG8xHFi5I87yoJUoto9fSg%3D%3D&tk2=fL1qwHmTLSNf4tu4e9Ry7F5uvEaiKUTWs7t5fYJKWmg%3D&tk3=Sb5PttBrGpEgcLa1GU7VWKsZqH5FgLbdVYj%2BFgeHqfk%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  OPCION 3 [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[carlos]</link>
+<regex>   
+<name>carlos</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/titosportstv3_bi9qx9m/playlist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.zombietv.pw/embed.php?c=105780&width=640&height=400&autostart=true&tk1=EslFdZJ8Y7FFL20zRbGuDTSINzHquDeX9%2FZ8jSth34rlE2PGbxc1B2S9S9yq9YO608gdBG41cfUcMb8xFkLYjw%3D%3D&tk2=FCYxLn9s2mCWR%2BxDncwyIepl%2FRTokigajsoN25RdGvg%3D&tk3=QrjTQAXLwdJZQ37F7hw3mJQNS2AschPqjyjdEjHNh88%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  OPCION 4 [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[loli]</link>
+<regex>   
+<name>loli</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/titosportstv4_15fdit4/playlist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.zombietv.pw/embed.php?c=105781&width=640&height=400&autostart=true&tk1=GqYL5SQHzed5Eig3eaoA%2FM0b06zpTgFxrvN95c7Vu3PLhIN6I7PbydJiCyf7Qimisg9PIF76jRuKFBb9kgk35A%3D%3D&tk2=qH9FJY1pJ3Ch5l7xS6tXGG4nGKysMsF9itVgR8Px3Q0%3D&tk3=lWv0MUPcTHFnKilzNWgPvFqnS77vzEACvx2Ph1tAMZM%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  OPCION 5 [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[tino]</link>
+<regex>   
+<name>tino</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/titosportstv1_bhxvow6/playlist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.zombietv.pw/embed.php?c=105761&width=640&height=400&autostart=true&tk1=zHuQZLKfWPd6xbs6HvYaWKxVAFDyD59dIpjmeHPl44%2BqjWfJzdrBrTgEEWJgxXivrPDVHFsmXVxP04A3JwBvYg%3D%3D&tk2=DlinlfeMNwiMVRdlBDFOYGLw4XFvUTtt4FBVEcZHTss%3D&tk3=3xC7bfT0lezuvLEbV3LrX5SLqSUlpNyRn09F5ZFKCZQ%3D')</expres><page></page></regex>		
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  BEIN LIGA [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[javi]</link>
+<regex>   
+<name>javi</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=111&width=650&height=400&autostart=true&tk1=tLThnlLJZy1EhH1kCW%2FYYHfFUK%2BbdVmXDdXOQwu4O58%3D&tk2=WlP8z4iABUxaE%2FxO0mtqSxQV4%2BdFkUArc5JZfMElqn0%3D&tk3=lz%2Bc%2Fxajj%2FylGnHAGDjWNkI7eD272K0qMjyIMnAGQo0%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  BEIN SPORT [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[mata]</link>
+<regex>   
+<name>mata</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/bein_alwkqfq/chunklist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=113&width=650&height=400&autostart=true&tk1=Ki7Ef8Ytqe32fmJNRh3ZhjAytDTkN9O042WGje2o5X4%3D&tk2=oXQ0ucOU4DStOPp3TDxtfdzm4ffSXIV7Oc2nQNBNz%2F8%3D&tk3=hvKT3rrJo7bYW2JbVrYdMmLjKasPFYEniR6saqXE%2BDw%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  GOL TV [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[bulo]</link>
+<regex>   
+<name>bulo</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/tvb119/chunklist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=119&width=650&height=400&autostart=true&tk1=E%2Bb1NkudNB1g5j2uYamv6P8J1kGRuviTRfYLeyQKO4A%3D&tk2=d7GQ36TkzG9vpmIOQ359Zf6u9F2Q42rsZTkMZt1PHew%3D&tk3=sIZygFphZCNugGMTu6veHwLY4HU8Rnor0ljvBD6dqyM%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  FUTBOL [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[mama]</link>
+<regex>   
+<name>mama</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/tvb112/chunklist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=112&width=650&height=400&autostart=true&tk1=jRA3TzDxtx7hH46iUakKg%2BhB6lhj3npVSm4p8wnFXSM%3D&tk2=v%2FukpUquCXhzkn5hwE8rwe5Jt0uk9EoKKFubk%2BSq6TA%3D&tk3=ESmSh%2Bh7naeSNy5lDQKDRSCRg%2Fx1xX3D%2FdCPhmugRdw%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  MOTOS [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[tana]</link>
+<regex>   
+<name>tana</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/tvb117/chunklist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=117&width=650&height=400&autostart=true&tk1=gBvbN2HCTkokByrOkfAKFcb1UmCYTzfyoaE%2FkTR2%2F6M%3D&tk2=t9HYOUTA0N7WvqOlXQ%2BdRe8CMT9d4MUohY8M7K9EOr4%3D&tk3=fTnxgBlFeNo0fxaikBifzEHR5QEP9nMkf3DM14BRP2E%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  F1 [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[colin]</link>
+<regex>   
+<name>colin</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/tvb116/chunklist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=116&width=650&height=400&autostart=true&tk1=ekbFbwkc3bXcse3xk%2BZE2L99up5YQkaZ9rVzU%2Bm%2BLA0%3D&tk2=fL1qwHmTLSNf4tu4e9Ry7F5uvEaiKUTWs7t5fYJKWmg%3D&tk3=Sb5PttBrGpEgcLa1GU7VWKsZqH5FgLbdVYj%2BFgeHqfk%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  DEPORTES 1 [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[papa]</link>
+<regex>   
+<name>papa</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/deportes_avylh70/chunklist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=114&width=650&height=400&autostart=true&tk1=PGcBySnSOCSCYgNvKbVHaJuo922WU3dT3B%2B%2FWK44KZo%3D&tk2=g%2BrpZogYyI%2B3V6sHA%2F0DXISu5z5stbIhZk7MVVHQkgU%3D&tk3=5Y9qzJjh2Eh8dQihuAvssQ4I5idQVgU2nbHIFuqdfmg%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  DEPORTES 2 [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[chulo]</link>
+<regex>   
+<name>chulo</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/movideportes2_bqbw8ob/chunklist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=115&width=650&height=400&autostart=true&tk1=hJwjNeJraUEtdPLHP73os%2BBjV7tgiSTG55j1ZRDH7qg%3D&tk2=FCYxLn9s2mCWR%2BxDncwyIepl%2FRTokigajsoN25RdGvg%3D&tk3=QrjTQAXLwdJZQ37F7hw3mJQNS2AschPqjyjdEjHNh88%3D')</expres><page></page></regex>
+</item>
+
+<item>
+<title>[COLOR blue]•EVENTOS DEPORTIVOS SPORTS TV  EUROSPORT [/COLOR] </title>
+<fanart>https://dl.dropbox.com/s/6hw0dc7xz8jpqxg/21421071-bolas-de-los-deportes-ilustraci-n-Foto-de-archivo.jpg</fanart>
+<thumbnail>https://dl.dropbox.com/s/2rmfuiazlf3468r/deportes-1-638.jpg</thumbnail>                                               
+<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[alfredo]</link>
+<regex>   
+<name>alfredo</name>
+<expres>$pyFunction:urllib.quote_plus('http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/eurosport_bpjt7ky/chunklist.m3u8|Referer=$doregex[get-pageUrl]&amp;User-Agent=Mozilla/5.0 (I686 X11 Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome / 49.0.2623.108 Safari/537.36&amp;Referer=http://www.playerhd2.pw/embed.php?c=120&width=650&height=400&autostart=true&tk1=sG7HcacnLrgc3LijVvUQSKRhoRWGG180E5xjp6K0dc8%3D&tk2=7RX%2BaZLdOOpG5TCc1GE4rDYqB%2F6prb0ooKgw8WIXarw%3D&tk3=rtxq8zUvc3DcEOTJ5jJ6SfHuNuievHql6yIgxRYgPeo%3D')</expres><page></page></regex>
+</item>

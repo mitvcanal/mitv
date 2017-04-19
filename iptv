@@ -1,0 +1,183 @@
+<item>
+<title>[COLOR white]•IPTV Varios Server [/COLOR]  [COLOR gold] [/COLOR]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][I][COLOR white]Server[/COLOR][COLOR lime][makelist2.param1][/COLOR][/B][/I]</title>
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://dl.dropbox.com/s/dsm4frq6bls2k8o/JMDL.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][I][COLOR white][makelist.param1][/COLOR] [/B][/I]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR white]Verema Tv[/COLOR][makelist.param1] [COLOR lime](server [makelist2.param1])[/COLOR]</link>
+<fanart></fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+</regex>    
+</item>
+
+<tem>
+<title>[COLOR white]•IPTV [/COLOR]                         [COLOR gold] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[makelist.param1]</title>
+	<link>[makelist.param2]|User-Agent=stagefright</link>
+
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<page>http://www.exabytetv.info/ESP.m3u</page>
+<agent>$doregex[it]</agent>
+<cookieJar></cookieJar>
+</regex>
+<name>it</name>	 
+<expres>Agent:"(.*?)";</expres>	 
+<page>http://adryanlist.org/adryan/fuckit.php</page> 
+</regex>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+</item>	
+	
+<item>
+<title>[COLOR white]•IPTV 2 [/COLOR]                      [COLOR gold] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[COLOR lime][makelist.param1][/COLOR]</title>
+	<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=[COLOR white]Verema Tv[/COLOR] [COLOR gold][makelist.param1][/COLOR]</link>
+
+]]></listrepeat>
+<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<page>http://www.exabytetv.info/ESP.m3u</page>
+<agent>ipad</agent>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+</regex>
+			</item>	
+
+
+
+
+<item>
+<title>[COLOR white]•IPTV 3 [/COLOR]  [COLOR lime]sportsdevil [/COLOR]         [COLOR gold]por secciones [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://raw.githubusercontent.com/veremaapk/repo/master/iptv3</externallink>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+        <fanart></fanart>
+</item>
+
+	<item>
+	<title>[COLOR white]•IPTV 4  [/COLOR]                      [COLOR gold] [/COLOR]</title>
+
+	<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+	<link>http://149.56.14.22/espana/iks.php/http://cdn1.elitegol.xyz/verliga/[makelist.param1]/chunks.m3u8|User-Agent=Mozilla/5</link>
+]]></listrepeat>
+<expres>espana:"(.*?)" name:"(.*?)";</expres>
+<page>http://adryanlist.org/adryan/kozm.txt</page>
+<referer></referer>
+<cookieJar></cookieJar>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+</regex>
+
+
+</item>
+
+<item>
+<title>[COLOR white]•IPTV 5 [/COLOR]  [COLOR lime]sportsdevil [/COLOR]   [COLOR gold] [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>http://pastebin.com/raw/5yZre1AN</externallink>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+        <fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]•IPTV 6 [/COLOR]  [COLOR lime]sportsdevil [/COLOR]           [COLOR gold]con canales autonomicos [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>http://pastebin.com/raw/sdrivM9J</externallink>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+        <fanart></fanart>
+</item>
+<item>
+<title>[COLOR white]•IPTV 7 [/COLOR]                      [COLOR gold] [/COLOR]</title>[/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][makelist.param2][/COLOR] </title>
+<link>http://149.56.14.22/espana/iks.php/http://cdn1.elitegol.xyz/verliga/[makelist.param1]/chunks.m3u8|User-Agent=Mozilla/5</link>
+]]></listrepeat>
+<expres>espana:"(.*?)" name:"(.*?)";</expres>
+<page>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#067;&#097;&#114;&#108;&#101;&#115;&#116;&#111;/&#108;&#105;&#115;&#116;&#097;&#050;/&#109;&#097;&#115;&#116;&#101;&#114;/&#115;&#101;&#114;&#118;&#101;&#114;&#046;&#116;&#120;&#116;</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]•IPTV 8 [/COLOR]        [COLOR lime]m3u       [/COLOR]     [COLOR gold] [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>http://pastebin.com/raw/ut34sie9</externallink>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+        <fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]•IPTV 9 [/COLOR]      [COLOR lime] NOVEDAD           [/COLOR]   [COLOR gold] [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/YiZuw2th</externallink>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+        <fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR white]•IPTV 10 [/COLOR]     [COLOR lime] NOVEDAD            [/COLOR]     [COLOR gold] [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/sNHkJ4S5</externallink>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+        <fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR white]•IPTV 11 [/COLOR]  [COLOR lime]            [/COLOR]     [COLOR gold] [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>http://snip.li/7b8Z</externallink>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+        <fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]•IPTV 12   [/COLOR]   [COLOR lime]Acestream   Addon Deportesalacarta Necesario  NOVEDAD           [/COLOR]     [COLOR gold] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAicHJpdmF0ZWhkIiwgCiAgICAiZmFuYXJ0IjogIiIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAibGFuZ3VhZ2UiOiAiZXMiLCAKICAgICJ0aHVtYm5haWwiOiAiaHR0cDovL2kuaW1ndXIuY29tL2s2cWpBMFcucG5nIiwgCiAgICAidGl0bGUiOiAiUHJpdmF0ZUhEIiwgCiAgICAidG90YWxJdGVtcyI6IDAsIAogICAgInZpZXdtb2RlIjogImxpc3QiCn0%3d</jsonrpc>
+<thumbnail>http://i.imgur.com/sgPiapY.jpg?w=240</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]•IPTV 13 [/COLOR]   [COLOR lime]           [/COLOR]     [COLOR gold] [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>http://pastebin.com/raw/4t4QtNeH</externallink>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
+        <fanart></fanart>
+</item>
