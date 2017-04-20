@@ -30,7 +30,7 @@
  <item>
   <title>[COLOR gold] Servidores TV [/COLOR]   </title>
         <link>http://Ignoreme</link>
-        <externallink>http://31.170.166.98/addon/repo/index.xml</externallink>
+        <externallink>http://mitvcanal.hol.es/addon/repo/index.xml</externallink>
 <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
  </item>
@@ -39,7 +39,7 @@
  <item>
         <title>[COLOR gold]IPTV de varios addons y Servidores [/COLOR]                          [COLOR gold] [/COLOR]  </title>
         <link>http://Ignoreme</link>
-        <externallink>http://31.170.166.98/addon/repo/iptv</externallink>
+        <externallink>http://mitvcanal.hol.es/addon/repo/iptv</externallink>
 <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
  </item>
@@ -66,7 +66,7 @@
 <item>
         <title>[COLOR orange]DEPORTES  [COLOR gold][/COLOR]                [COLOR gold] [/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink>http://31.170.166.98/addon/repo/deportes</externallink>
+        <externallink>http://mitvcanal.hol.es/addon/repo/deportes</externallink>
         <thumbnail>http://www.talentkids.es/wp-content/uploads/curso-imagen-multideporte-420x420.jpg</thumbnail>
         <fanart>http://www.talentkids.es/wp-content/uploads/curso-imagen-multideporte-420x420.jpg</fanart>
 </item>
