@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
 
-    <title>              [COLOR gold]                                   19/04/2017 Actualizado             [/COLOR]</title>
+    <title>              [COLOR gold]                                   29/04/2017 Actualizado             [/COLOR]</title>
      <link>http://Ignoreme</link>
 	 <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/icon.png</thumbnail>
                   <fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
@@ -59,13 +59,20 @@
 
 
 <item>
-  <title>[COLOR gold] TDT [/COLOR]   </title>
+  <title>[COLOR gold] TDT pruebas [/COLOR]   </title>
         <link>http://Ignoreme</link>
         <externallink>https://pastebin.com/raw/kg3NcfZZ</externallink>
 <thumbnail>http://www.mazarron.es/opencms/export/sites/mazarron/es/ayuntamiento/.content/imagenes/LOGO_TDT.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
  </item>
 
+<item>
+  <title>[COLOR gold] M+ pruebas [/COLOR]   </title>
+        <link>http://Ignoreme</link>
+        <externallink>http://pastebin.com/raw/WiXfsxAG</externallink>
+<thumbnail>http://freevectorlogo.net/wp-content/uploads/2013/03/movistar-telefonica-vector-logo-200x200.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
+ </item>
 
 
 
