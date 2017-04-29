@@ -57,6 +57,18 @@
 <fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
  </item>
 
+
+<item>
+  <title>[COLOR gold] TDT [/COLOR]   </title>
+        <link>http://Ignoreme</link>
+        <externallink>https://pastebin.com/raw/kg3NcfZZ</externallink>
+<thumbnail>http://www.mazarron.es/opencms/export/sites/mazarron/es/ayuntamiento/.content/imagenes/LOGO_TDT.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
+ </item>
+
+
+
+
  <!--<item>
         <title>[COLOR orange]TDT Y AUTONOMICAS[/COLOR]                        [COLOR gold] [/COLOR]</title>
         <link>http://Ignoreme</link>
@@ -91,6 +103,21 @@
        <thumbnail>http://mundokodi.com/wp-content/uploads/2016/11/10-portada-la-liga.jpg</thumbnail>
        <fanart>http://mundokodi.com/wp-content/uploads/2016/11/10-portada-la-liga.jpg</fanart>
 </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--<item>
    <title>[COLOR orange]Agenda Arenavision (horarios)[/COLOR]             [COLOR gold]NOVEDAD [/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -171,15 +198,25 @@
 <fanart></fanart>
 </item>
 
+<item>
+  <title>[COLOR gold] Infantil [/COLOR]   </title>
+        <link>http://Ignoreme</link>
+        <externallink>http://pastebin.com/raw/QKwkjJPM</externallink>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/rincon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
+ </item>
+
+
+
 
 
 ***************************************************************************************************************************************
 
 <item>
-  <title>[COLOR gold] + Deportes [/COLOR]   </title>
+  <title>[COLOR gold] TDT [/COLOR]   </title>
         <link>http://Ignoreme</link>
-        <externallink>https://pastebin.com/TPc8jbeq</externallink>
-<thumbnail>http://www.talentkids.es/wp-content/uploads/curso-imagen-multideporte-420x420.jpg</thumbnail>
+        <externallink>https://pastebin.com/raw/kg3NcfZZ</externallink>
+<thumbnail>http://www.mazarron.es/opencms/export/sites/mazarron/es/ayuntamiento/.content/imagenes/LOGO_TDT.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
  </item>
 
