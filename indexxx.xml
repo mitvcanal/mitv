@@ -43,7 +43,7 @@
  <item>
   <title>[COLOR gold] Servidores TV [/COLOR]   </title>
         <link>http://Ignoreme</link>
-        <externallink>http://mitvcanal.hol.es/addon/repo/index.xml</externallink>
+        <externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/iss</externallink>
 <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
  </item>

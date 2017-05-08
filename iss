@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+
+<item>
+<title>                                                    [COLOR orange][B]Mitv[/B][/COLOR]   </title>
+<link>$doregex[openDialog]</link>
+<thumbnail>http://?</thumbnail>
+<fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
+<externallink></externallink>
+</item>
+
+<item>
+<title>               [COLOR lightslategray]                           Actualizacion: [COLOR slategray][B]08[/B][/COLOR]/05/17[/COLOR] </title>
+<link>$doregex[openDialog]</link>
+</thumbnail><fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
+</item>
+
+
+https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg
+ <item>
+        <title>[COLOR orange]Servidor 1  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>http://mitvcanal.hol.es/addon/repo/is/1</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 2 [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/XmDksT25</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 3  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/Z6RrMMYw</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 4  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/vJFhJ4qm</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 5  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/pHTEbmha</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 6  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/saL5v4c6</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 7  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/czEeQ6ys</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 8  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/G5tiY0cC</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 9  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/dNBsS5in</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 10  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/1XD8hwUK</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 11  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/ixD36y3m</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 12  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/D23CR2WR</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 13  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/t7cNS73E</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+
+ <item>
+        <title>[COLOR orange]Servidor 14  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://pastebin.com/raw/f4uBWWwj</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
+ <item>
+        <title>[COLOR orange]Servidor 15  [/COLOR]</title>
+        <link>http://Ignoreme</link>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/15</externallink>
+        <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
+        <fanart></fanart>
+</item>
