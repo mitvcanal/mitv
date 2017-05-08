@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 1  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>http://mitvcanal.hol.es/addon/repo/is/1</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/1</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 2 [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/XmDksT25</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/2</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 3  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/Z6RrMMYw</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/3</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 4  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/vJFhJ4qm</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/4</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 5  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/pHTEbmha</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/5</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 6  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/saL5v4c6</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/6</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 7  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/czEeQ6ys</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/7</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 8  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/G5tiY0cC</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/8</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -85,7 +85,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 9  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/dNBsS5in</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/9</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -93,7 +93,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 10  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/1XD8hwUK</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/10</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -101,7 +101,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 11  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/ixD36y3m</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/11</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -109,7 +109,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 12  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/D23CR2WR</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/12</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -117,7 +117,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 13  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/t7cNS73E</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/13</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
@@ -125,7 +125,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
  <item>
         <title>[COLOR orange]Servidor 14  [/COLOR]</title>
         <link>http://Ignoreme</link>
-		<externallink>https://pastebin.com/raw/f4uBWWwj</externallink>
+		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/14</externallink>
         <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
