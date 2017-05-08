@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
 
-    <title>              [COLOR gold]                                   29/04/2017 Actualizado             [/COLOR]</title>
+    <title>              [COLOR gold]                                   08/05/2017 Actualizado             [/COLOR]</title>
      <link>http://Ignoreme</link>
 	 <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/icon.png</thumbnail>
                   <fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
@@ -43,7 +43,7 @@
  <item>
   <title>[COLOR gold] Servidores TV [/COLOR]   </title>
         <link>http://Ignoreme</link>
-        <externallink>http://mitvcanal.hol.es/addon/repo/index.xml</externallink>
+        <externallink>http%3A%2F%2Fmitvcanal.hol.es%2Faddon%2Frepo%2Findex.xml</externallink>
 <thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/icon.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
  </item>
