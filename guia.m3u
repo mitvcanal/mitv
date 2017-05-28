@@ -1,4 +1,10 @@
-        {  
+ {
+    "name": "GUIA TV PLAYVEREMA",
+    "author": "VEREMA",
+	"info": "Información",
+    "groups": [
+    
+  {  
 		   "name": "GUIAS TV",
             "image": "https://fotos.subefotos.com/75485c822872d6560ef54d4c8117aeb1o.png",
             "stations": [
@@ -17,3 +23,4 @@
                         }
 						]
 		}
+	}
