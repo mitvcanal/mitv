@@ -1,0 +1,18 @@
+           "name": "GUIAS TV",
+            "image": "https://fotos.subefotos.com/75485c822872d6560ef54d4c8117aeb1o.png",
+            "stations": [
+                  
+                        {
+                           "name": "Guia Programación 1",
+                           "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/000/185/2a3/35da564.jpg",
+                           "url": "http://www.elmundo.es/television/programacion-tv/",
+                           "embed": "true"
+                        },
+						{
+                           "name": "Guia Programación 2",
+                           "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/000/185/2a3/35da564.jpg",
+                           "url": "http://www.tvguia.es/",
+                           "embed": "true"
+                        }
+						]
+		},
