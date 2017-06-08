@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
         <fanart></fanart>
 </item>
 
-<!---<item>
+<item>
         <title>[COLOR orange]Servidor 9  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/9</externallink>
@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
         <fanart></fanart>
 </item>
 
- <item>
+ <!---<item>
         <title>[COLOR orange]Servidor 10  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/10</externallink>
