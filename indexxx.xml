@@ -17,14 +17,14 @@
 <externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/iss</externallink>	
 </item>
 
-
+<!-->
 <item>
 <title>[COLOR red]HD Cine[/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>http://veremaspain.hol.es/addon/HDFull.xml</externallink>
 <Thumbnail>http://veremaspain.hol.es/addon/etzwpWF.jpg</thumbnail>
 <fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
-</item>
+</item> -->
 
 <item>
 <title>[COLOR red]Cine Ticket[/COLOR] </title>
@@ -163,8 +163,8 @@
 <title>[COLOR red]EliteTorrent[/COLOR][COLOR blue][I] Addon EliteTorrent Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.elitetorrent/</jsonrpc>
-<thumbnail>http://i.imgur.com/9CUz8Er.png</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/elite.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/elite.png</fanart>
 </item>
 
 
