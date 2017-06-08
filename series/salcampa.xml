@@ -1,0 +1,1548 @@
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x01[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/s8mosz0dklvw'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x02[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/o55jw1l9w79k'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x03[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/4da7gf80a88r'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x04[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/iwe00altiixg'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x05[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/546moxcg8rbh'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x06[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5bnwqrptthzs'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x07[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/3e14lrpdagja'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x08[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/0mbp719s20h1'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x09[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vr0guu8akpkj'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x10[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bvjc19kwa5si'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x11[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/b8jga22kplb8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x12[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xh8mkdwgx8wm'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x13[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yaw03ea1udmd'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x14[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/obg7ri19yoq9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x15[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/gvmul5zdlqv9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x16[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/seg46tkajgcq'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x17[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/y8sjllgrn2pe'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x18[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/n3jo7x1wguti'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x19[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/klryeqc0sd6t'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-1x20[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/cbezx9aymvje'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x01[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bso37k7hpj9l'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x02[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/goshv8d3oxp3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x03[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/j9mhnxj7k5i5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x04[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/9vtzvg1glvjn'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x05[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/u5i6bmcf2wdb'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x06[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lce1h093jmk7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x07[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/71r4i1fdwo17'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x08[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/b33x6n53xezv'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x09[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/mrsrppyi180w'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x10[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/g1azqqhj2qri'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x11[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/g60sw6efrhw4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x12[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vr10ygkvq3vm'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x13[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/gm81mw440ap8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x14[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/4xusy4w3501l'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x15[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/3d85dvi24040'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x16[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ccm0mk8uo84z'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x17[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5y19zsldjjch'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-2x18[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/2gf4iwzc10v2'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x01[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ylpx47c33il2'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x02[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/x7wf4xyu76cj'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x03[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/a6vo4snhwbhn'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x04[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pa6flgymz1kx'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x05[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/etjhjajjvpe1'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x06[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/mfi0fr7ev6e7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x07[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ahd38wjnu4d1'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x08[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/m6yrh047a5t8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x09[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/iafcab2jtxtk'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x10[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8evuherq2hj1'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x11[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8v7a398ilw3z'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x12[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w32hslnmzwy2'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x13[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6qxykkbdk0e6'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x14[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/9h4mt3hfemn9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x15[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/u85rxfyptaw8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x16[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jj8iw9jw22c4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x17[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lf3f1x103bwu'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x18[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/10axebxhiv3r'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x19[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ey291oeyq005'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x20[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hxbq45x0k6c4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x21[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zvch03o2iaaz'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x22[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/de8vueajcv7d'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x23[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/c6ib0ha4oaw8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x24[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/p4bn0u9344vj'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x25[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qke1yxpqmfhs'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x26[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ajyqa0pzcysb'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-3x27[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/gc3cvl9nckj9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x01[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/imbuiioocp60'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x02[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/wleo848er3sy'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x03[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jvx4mwgqbtjj'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x04[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8irmzn1bhhpb'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x05[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/so4nklxwigmf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x06[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/kz379bp1il6t'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x07[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dsj9hvmjhbo8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x08[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7wxhjblfo3g4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x09[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/mce6fc1x3zt0'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x10[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jnk46itwh4k6'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x11[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/z5smf5mddmby'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x12[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/17p5o6y4wqt2'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x13[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/u1jre0evvaj1'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x14[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xe3ma55szlp8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x15[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tt48ivwa5z46'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x16[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/81j95lh1d92h'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x17[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/3l0dfdys8ier'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x18[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/96r9acbjimtj'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x19[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/62dzwp39wxs3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x20[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/u3cm4jjzeqvg'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] Salvados por la campana-4x21[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/uty7puvj2jep'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail>
+<fanart>http://www.diariosur.es/noticias/201604/20/media/cortadas/salvados-campana2--575x323.jpg</fanart>
+</item>
