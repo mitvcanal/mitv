@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
 <addon id="plugin.video.elitetorrent" name="[COLOR FF336699]EliteTorrent[/COLOR] viewer" version="1.2.5"
        provider-name="mancuniancol">
     <requires>
@@ -24,18 +23,3 @@
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     </extension>
 </addon>
-
-<addon id="repository.MiTv" name="Mi Tv Repository" version="1.0.2" provider-name="Mi Tv - Marce ">
-	<extension point="xbmc.addon.repository" name="Mi Tv Repository">
-		<info compressed="false">https://raw.githubusercontent.com/mitvcanal/mitv/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/mitvcanal/mitv/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/mitvcanal/mitv/master/repo/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Actualizaciones Kodi addons</summary>
-		<description>Repositorio con todo lo necesario para instalar sin problemas los addons de Mi Tv</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-</addons>
