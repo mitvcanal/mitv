@@ -97,7 +97,7 @@
 <thumbnail>http://veremaspain.hol.es/addon/jDakxfT.png</thumbnail>
 <fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
 <externallink>http://veremaspain.hol.es/addon/Seriesac.xml</externallink>	
-</item>
+</item>--->
 
 <item>
 <title>[COLOR red]Series Retro[/COLOR]</title>
@@ -115,7 +115,7 @@
 <externallink>http://veremaspain.hol.es/addon/retrocine.xml</externallink>	
 </item>
 
-<item>
+<!---<item>
 <title>[COLOR red]Anime[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/GrP6Ipl.png</thumbnail>
