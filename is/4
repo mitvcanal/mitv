@@ -1,222 +1,220 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
- 
- 
- 
- 
+
+
 <item>
 <title>[COLOR blue]#0 HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:788C:414:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/MV3.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/maxresdefault.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]#0[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:7478:3F0:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/MV3.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/maxresdefault.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M ESTRENOS HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/MV1.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/original.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M ESTRENOS[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:76C0:40E:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/MV1.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/original.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M XTRA HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:74D8:3F8:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/CPXTRA.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/xtr.jpg/thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M XTRA[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:77C6:40A:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/CPXTRA.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/xtr.jpg/thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M ACCIÓN HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:7509:420:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/CPACCI.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/acc.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M ACCIÓN[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:746C:3F0:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/CPACCI.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/acc.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR blue]MCOMEDIA HD[/COLOR]</title>
+<title>[COLOR blue]M COMEDIA HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:7857:41A:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOME.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/comedia.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M COMEDIA[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:746D:3F0:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOME.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/comedia.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M DCINE HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:750B:420:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOLE.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/dcine.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M DCINE[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:746E:3F0:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/CPCOLE.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/dcine.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]DCINE ESPAÑOL[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:7736:416:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/DCESP.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/MovistarCine.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]HOLLYWOOD HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:750C:420:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/HOLLYW.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/Canal-Hollywood-20-Anos.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]HOLLYWOOD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:77C1:40A:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/HOLLYW.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/Canal-Hollywood-20-Anos.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]TCM HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:7885:414:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/TCM.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/TCM-630x355.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]TCM[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:76C7:40E:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/TCM.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/TCM-630x355.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]TNT HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:7888:414:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/TNT.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/Logo_TNT.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]TNT[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:77C9:40A:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/TNT.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/Logo_TNT.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]PARAMOUNT[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:75F9:408:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/PARCH.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/paramount_chanel.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M SERIES HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:7882:414:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/CPSER.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/series.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M SERIES[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:7696:41E:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/CPSER.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/series.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M SERIESXTRAHD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:78B6:3EC:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/MV2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/serext.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M SERIESXTRA[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:76CA:40E:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/MV2.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/serext.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]FOX HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:7504:420:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/FOXGE.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/fox-300.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]FOX[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:746F:3F0:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/FOXGE.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/fox-300.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]FOX LIFE HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/FOXCR.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/índice.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]FOX LIFE[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:7468:3F0:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/FOXCR.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/índice.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]AMC HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:7533:426:1:C00000:0:0:0:</link>
-<thumbnail>ttp://www.movistarplus.es/recorte/m-NEO/ficha/AMC.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/AMC_logo_2016.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]AMC[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:76CF:40E:1:C00000:0:0:0:</link>
-<thumbnail>ttp://www.movistarplus.es/recorte/m-NEO/ficha/AMC.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/AMC_logo_2016.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]AXN HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:7856:41A:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/AXN.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/nuevo_logo_axn.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]AXN[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:7477:3F0:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/AXN.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/nuevo_logo_axn.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]AXN WHITE HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/SET.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/white.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]AXN WHITE[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:7471:3F0:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/SET.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/white.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]SYFY HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/SCI-FI.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/syfy.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]SYFY[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:7796:424:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/SCI-FI.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/syfy.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]CALLE 13 HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:7824:428:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/CL13.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/13.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]CALLE 13[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:7790:424:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/CL13.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/13.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]COMEDYCENTRALHD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/PCM.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/comedy.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]COMEDY CENTRAL[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:76C8:40E:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/PCM.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/comedy.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]COSMO HD[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:19:78B8:3EC:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/COSMO.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/cosmo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]COSMO[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:7730:416:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/COSMO.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/cosmo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]SUNDANCE[/COLOR]</title>
 <link>http://37.11.62.91:8001/1:0:1:76A5:41E:1:C00000:0:0:0:</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/ficha/SUNDAN.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/ima/sundance_placeholder_16x9.png</thumbnail>
 </item>
 <item>
 <title>[COLOR blue]M TOROS HD[/COLOR]</title>
@@ -658,6 +656,6 @@
 <link>http://37.11.62.91:8001/1:0:1:76C4:40E:1:C00000:0:0:0:</link>
 <thumbnail>https://d8nz9a88rwsc9.cloudfront.net/wp-content/uploads/2017/01/princesas-disney.jpg</thumbnail>
 </item>
- 
- 
+
+
 </stream>
