@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<!--<item>
+<title>[COLOR red]Deportes[/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Carlesto/Listas/master/deportes.xml</externallink> 
+<thumbnail>http://i.imgur.com/ICJ9tPt.png</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>  -->
+<item>
+<title>[COLOR red]Mi Tv[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/iss</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR red]HD Cine[/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://veremaspain.hol.es/addon/HDFull.xml</externallink>
+<Thumbnail>http://veremaspain.hol.es/addon/etzwpWF.jpg</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Cine Ticket[/COLOR] </title>
+<link>http://Ignoreme</link>
+<externallink>http://veremaspain.hol.es/addon/presenta.xml</externallink>
+<thumbnail>http://veremaspain.hol.es/addon/ESsfjmY.png</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart> 
+</item>
+ 
+<item>
+<title>[COLOR red]Cine Terror[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://veremaspain.hol.es/addon/aYKmxRv.png</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/peJPGUg.png</fanart>
+<externallink>http://veremaspain.hol.es/addon/hallowen.xml</externallink>	
+</item>
+
+
+<!--<item>
+<title>[COLOR red]Aldione's Movies[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/nNzf84S.jpg</thumbnail>
+<fanart>http://i.imgur.com/nNzf84S.jpg</fanart>
+<externallink>http://veremaspain.hol.es/addon/aldione.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR red]Cineflix[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://veremaspain.hol.es/addon/2vj3NGE.png</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/iXATBaG.jpg</fanart>
+<externallink>http://veremaspain.hol.es/addon/catoflix.xml</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR red]Sala VIP[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://veremaspain.hol.es/addon/m248iT4.jpg</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<externallink>http://veremaspain.hol.es/addon/eltaquillazo.xml</externallink>	
+</item>
+	
+<item>
+<title>[COLOR red]Filmoteca[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://veremaspain.hol.es/addon/aKhYlFY.png</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<externallink>http://veremaspain.hol.es/addon/labutaca.xml</externallink>	
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]Mis SAGAS[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://veremaspain.hol.es/addon/el_videoclub.jpg</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/list_640px.jpg</fanart>
+<externallink>http://veremaspain.hol.es/addon/missagas.xml</externallink>	
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR red]Todo Series[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://veremaspain.hol.es/addon/jDakxfT.png</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<externallink>http://veremaspain.hol.es/addon/Seriesac.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR red]Series Retro[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://veremaspain.hol.es/addon/gV3CLf7.jpg</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<externallink>http://veremaspain.hol.es/addon/retro.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR red]Remmenber Cine[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://veremaspain.hol.es/addon/MiUjmRx.png</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<externallink>http://veremaspain.hol.es/addon/retrocine.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR red]Anime[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/GrP6Ipl.png</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<externallink>http://veremaspain.hol.es/addon/Seriesanime.xml</externallink>	
+</item>
+	
+<item>
+<title>[COLOR red]Infantil[/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://veremaspain.hol.es/addon/Infantiles.xml</externallink>
+<thumbnail>http://veremaspain.hol.es/addon/7voKiV1.jpg</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+</item> 
+
+
+<item>
+<title>[COLOR red]Peliculas Infantiles[/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://veremaspain.hol.es/addon/Peliculasinfantiles.xml</externallink>
+<thumbnail>http://veremaspain.hol.es/addon/RfiT087.jpg</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+</item> 
+
+<!--<item>
+<item>
+<title>[COLOR red]Now Music [COLOR blue][I] Addon Necesario[/I][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.now_music</jsonrpc>
+<thumbnail>http://i.imgur.com/HEXRLwV.png</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+</item>
+		    
+
+<!--<item>
+<title>[COLOR red]Super [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/catoalkodi/ListaCatoal/master/superlistas.xml</externallink>
+<thumbnail>http://i.imgur.com/bZO05zt.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>-->
+
+
+<item>
+<title>[COLOR red]EliteTorrent[/COLOR][COLOR blue][I] Addon EliteTorrent Necesario[/I][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.elitetorrent/</jsonrpc>
+<thumbnail>http://i.imgur.com/9CUz8Er.png</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]NewPctv1[/COLOR][COLOR blue][I] Addon NewPctv1 Necesario[/I][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.newpct1/</jsonrpc>
+<thumbnail>http://veremaspain.hol.es/addon/RYou4Oe.png</thumbnail>
+<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+</item>
+
+<!--<item>
+<title>[COLOR red]IPTV [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://veremaspain.hol.es/addon/CmHvoNc.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Philips_PM5544.svg/300px-Philips_PM5544.svg.png</fanart>
+<externallink>http://veremaspain.hol.es/addon/freeiptvlinks.xml</externallink>	
+</item>-->
+
+
+<item>
+<title>[COLOR red]Canales TV Acestream[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://veremaspain.hol.es/addon/V3klE56.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-rLHvP5fvBHg/Vf0isvJSGhI/AAAAAAAAG1U/DurLKrJ1Y5A/s640/plexus-kodi.jpg</fanart>
+<externallink>http://veremaspain.hol.es/addon/canalesaces.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR red]ArenaVision EZY[/COLOR][COLOR blue][I] Addon ArenaVision EZY Necesario[/I][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.arenavisionezy/</jsonrpc>
+<thumbnail>http://veremaspain.hol.es/addon/s0cmHc6.png</thumbnail>
+<fanart>http://i.imgur.com/hftJKqk.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Deportes a la Carta[/COLOR][COLOR blue][I] Addon Necesario[/I][/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.deportesalacarta/</jsonrpc>
+<thumbnail>http://veremaspain.hol.es/addon/CXrBGnc.png</thumbnail>
+<fanart>http://i.imgur.com/QXtE7xr.jpg</fanart>
+</item>
+
