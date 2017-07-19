@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>               [COLOR lightslategray]                           Actualizacion: [COLOR slategray][B]13[/B][/COLOR]/06/17[/COLOR] </title>
+<title>               [COLOR lightslategray]                           Actualizacion: [COLOR slategray][B]19[/B][/COLOR]/07/17[/COLOR] </title>
 <link>$doregex[openDialog]</link>
 </thumbnail><fanart>https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/fanart.jpg</fanart>
 </item>
