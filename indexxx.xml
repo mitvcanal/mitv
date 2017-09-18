@@ -26,6 +26,7 @@
 <fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
 </item> -->
 
+<!-->
 <item>
 <title>[COLOR red]Cine Ticket[/COLOR] </title>
 <link>http://Ignoreme</link>
@@ -156,7 +157,7 @@
 <externallink>https://raw.githubusercontent.com/catoalkodi/ListaCatoal/master/superlistas.xml</externallink>
 <thumbnail>http://i.imgur.com/bZO05zt.jpg</thumbnail>
 <fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>-->
+</item>
 
 
 <item>
@@ -182,7 +183,7 @@
 <thumbnail>http://veremaspain.hol.es/addon/CmHvoNc.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Philips_PM5544.svg/300px-Philips_PM5544.svg.png</fanart>
 <externallink>http://veremaspain.hol.es/addon/freeiptvlinks.xml</externallink>	
-</item>-->
+</item>
 
 
 <item>
@@ -207,5 +208,5 @@
 <jsonrpc>plugin://plugin.video.deportesalacarta/</jsonrpc>
 <thumbnail>http://veremaspain.hol.es/addon/CXrBGnc.png</thumbnail>
 <fanart>http://i.imgur.com/QXtE7xr.jpg</fanart>
-</item>
+</item>-->
 

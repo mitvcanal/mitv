@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/mitvcanal/mitv/master/iconos/movistar-logo-201
         <fanart></fanart>
 </item>
 
- <item>
+<!---<item>
         <title>[COLOR orange]Servidor 7  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>https://raw.githubusercontent.com/mitvcanal/mitv/master/is/7</externallink>
